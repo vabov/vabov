@@ -1,6 +1,6 @@
 # hello people
 
-**'digital idiot (Developer/Gui maker)'**
+**'digital idiot (Developer)'**
 
 - 🔭 I’m currently working on random projects
 - 🌱 I’m currently learning lua nd html
