@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on random projects
 - 🌱 I’m currently learning lua nd html
 
-i mostly like to work on random projects or games that involve code languages im trying to learn
+im like to work on random projects
 
 [books of war](https://www.youtube.com/watch?v=beQDzn_bLDw)
 
